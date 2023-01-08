@@ -1,0 +1,10 @@
+{
+    "DATABASE":
+    {
+        "CONNECTION":
+        {
+            "OPTIONS":{ "useUnifiedTopology": true, "useNewUrlParser": true },
+            "DB_URI":"mongodb://localhost:27017/goaly" 
+        }
+    }
+} 
